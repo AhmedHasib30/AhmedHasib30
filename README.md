@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm MD Fokrul Islam Hasib
 
-### 💻 Software Engineering Student | 🔐 Cybersecurity Learner
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Learner;Ethical+Hacking+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+</a>
 
 <p>
   Passionate about Software Development, Cybersecurity, Web Development and Ethical Hacking.
