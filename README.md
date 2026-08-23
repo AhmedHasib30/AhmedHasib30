@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm MD Fokrul Islam Hasib
+
+<img width="1983" height="793" alt="git banner" src="https://github.com/user-attachments/assets/c370506e-94f1-43fc-b53d-304e87e19b78" />
+
+
+#  Hello, I'm MD Fokrul Islam Hasib
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Learner;Ethical+Hacking+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
@@ -14,42 +18,42 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 🎓 Software Engineering Student at Green University of Bangladesh
-* 🔐 Actively learning and practicing Cybersecurity
-* 🛡️ Interested in Malware Analysis, Detection and Security Research
-* 🌐 Learning WordPress Security and Web Application Security
-* 🔎 Practicing OSINT and Penetration Testing
-* 🧪 Exploring SQL Injection and other Web Vulnerabilities
-* 🦠 Learning Malware Detection and Removal
-* 📋 Strong interest and skills in Requirements Engineering
-* 💡 Enjoy generating new ideas and turning problems into practical solutions
-* 💻 Software Developer with experience in C, C++, Python, Java and JavaScript
-* 🚀 Building projects while continuously improving my Software Engineering and Cybersecurity skills
+*  Software Engineering Student at Green University of Bangladesh
+*  Actively learning and practicing Cybersecurity
+*  Interested in Malware Analysis, Detection and Security Research
+*  Learning WordPress Security and Web Application Security
+*  Practicing OSINT and Penetration Testing
+*  Exploring SQL Injection and other Web Vulnerabilities
+*  Learning Malware Detection and Removal
+*  Strong interest and skills in Requirements Engineering
+*  Enjoy generating new ideas and turning problems into practical solutions
+*  Software Developer with experience in C, C++, Python, Java and JavaScript
+*  Building projects while continuously improving my Software Engineering and Cybersecurity skills
 
 ---
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Programming
+###  Programming
 - C
 - C++
 - Python
 - Java
 - JavaScript
 
-### 🌐 Web Development
+###  Web Development
 - HTML
 - CSS
 - JavaScript
 - Node.js
 - WordPress
 
-### 🗄️ Database
+###  Database
 - MySQL
 - MySQL Workbench
 
-### 🔐 Cybersecurity
+###  Cybersecurity
 - Web Security
 - Vulnerability Research
 - Penetration Testing
@@ -58,7 +62,7 @@
 - SQL Injection
 - Malware Analysis & Detection
 
-### 📋 Software Engineering
+###  Software Engineering
 - Requirements Engineering
 - Software Design
 - Problem Solving
@@ -67,10 +71,10 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ---
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/AhmedHasib30">
@@ -88,14 +92,14 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🔐 Improving my Cybersecurity and Penetration Testing skills
-- 🌐 Exploring Web & WordPress Security
-- 🔎 Learning more about OSINT and Vulnerability Research
-- 💻 Building Software Engineering projects
-- 💡 Turning new ideas into practical projects
-- 📚 Strengthening my Requirements Engineering and Problem-Solving skills
+-  Improving my Cybersecurity and Penetration Testing skills
+-  Exploring Web & WordPress Security
+-  Learning more about OSINT and Vulnerability Research
+-  Building Software Engineering projects
+-  Turning new ideas into practical projects
+-  Strengthening my Requirements Engineering and Problem-Solving skills
 
 ---
 
