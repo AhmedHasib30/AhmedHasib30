@@ -2,9 +2,6 @@
 
 <!-- Banner Image -->
 <img width="100%" alt="git banner" src="https://github.com/user-attachments/assets/c370506e-94f1-43fc-b53d-304e87e19b78" />
-
-<br/><br/>
-
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Learner;Web+Security+%26+Ethical+Hacking+Enthusiast" alt="Typing SVG" />
