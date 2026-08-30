@@ -1,22 +1,17 @@
 <div align="center">
 
-<!-- Banner Image -->
-<img width="100%" alt="GitHub Banner" src="https://github.com/user-attachments/assets/c370506e-94f1-43fc-b53d-304e87e19b78" />
-
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Learner;Web+Security+%26+Ethical+Hacking+Enthusiast" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 # MD Fokrul Islam Hasib
 
-### Software Engineering Student | Cybersecurity & Web Application Security Learner
+### Cybersecurity Learner | Ethical Hacking | Web Security
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Ethical+Hacking+Enthusiast;Web+Security+%26+Vulnerability+Research;Penetration+Testing+%7C+OSINT;Software+Engineering+Student"
+    alt="Typing SVG"
+  />
+</a>
 
 </div>
-
----
 
 ## Connect With Me
 
