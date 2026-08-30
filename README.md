@@ -2,11 +2,11 @@
 
 # MD Fokrul Islam Hasib
 
-### Cybersecurity Learner | Ethical Hacking | Web Security
+### Software Engineering Student | Cybersecurity Learner
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Ethical+Hacking+Enthusiast;Web+Security+%26+Vulnerability+Research;Penetration+Testing+%7C+OSINT;Software+Engineering+Student"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+Initializing+Cybersecurity+Journey...;%3E+Web+Security+%26+Vulnerability+Research;%3E+Ethical+Hacking+%26+Penetration+Testing;%3E+OSINT+%7C+Security+Research;%3E+Building.+Learning.+Securing."
     alt="Typing SVG"
   />
 </a>
