@@ -68,68 +68,81 @@
 
 ---
 
+---
 
-## Skills & Technologies
+## 🛠️ Tech Stack & Skills
 
-### Programming
-- C
-- C++
-- Python
-- Java
-- JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,nodejs,mysql,git,github,linux,vscode" />
+</p>
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- WordPress
+<p align="center">
+  <img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=for-the-badge&logo=kalilinux&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/ETHICAL_HACKING-111827?style=for-the-badge&logo=hackthebox&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/WEB_SECURITY-111827?style=for-the-badge&logo=googlechrome&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/WORDPRESS_SECURITY-111827?style=for-the-badge&logo=wordpress&logoColor=00e5ff" />
+</p>
 
-### Database
-- MySQL
-- MySQL Workbench
-
-### Cybersecurity
-- Web Security
-- Vulnerability Research
-- Penetration Testing
-- WordPress Security
-- OSINT
-- SQL Injection
-- Malware Analysis & Detection
-
-### Software Engineering
-- Requirements Engineering
-- Software Design
-- Problem Solving
-- Algorithm & Data Structures
-- Git & GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/OSINT-111827?style=for-the-badge&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/PENETRATION_TESTING-111827?style=for-the-badge&logo=kalilinux&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/MALWARE_ANALYSIS-111827?style=for-the-badge&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/SQL_INJECTION-111827?style=for-the-badge&logo=mysql&logoColor=00e5ff" />
+</p>
 
 ---
 
-## Featured Projects
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHasib30&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHasib30&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Current Focus
+## 🚀 What I'm Working On
 
-- Improving my Cybersecurity and Penetration Testing skills
-- Exploring Web & WordPress Security
-- Learning more about OSINT and Vulnerability Research
-- Building Software Engineering projects
-- Turning new ideas into practical projects
-- Strengthening my Requirements Engineering and Problem-Solving skills
+- 🔐 Improving my Cybersecurity and Ethical Hacking skills
+- 🌐 Exploring Web Application & WordPress Security
+- 🔎 Practicing OSINT and Penetration Testing
+- 🦠 Learning Malware Detection and Removal
+- 💻 Building Software Engineering projects
+- 🧠 Strengthening Data Structures & Algorithms
+- 📋 Improving Requirements Engineering skills
+- 💡 Exploring new ideas and turning them into practical projects
 
 ---
 
-## Current Focus
+## 📂 Featured Projects
 
-- Improving my Cybersecurity and Penetration Testing skills
-- Exploring Web & WordPress Security
-- Learning more about OSINT and Vulnerability Research
-- Building Software Engineering projects
-- Turning new ideas into practical projects
-- Strengthening my Requirements Engineering and Problem-Solving skills
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| 🚔 Police Station Management System | A C++ based system for managing police officers and criminal records using DSA concepts. | C++, DSA |
+| 🚌 Bus Control System | A console-based bus ticket management project with seat booking, cancellation and route-related algorithms. | C++, STL, DSA |
+| 🛡️ Cybersecurity Defacement Demo | A cybersecurity-themed web defacement simulation created for learning and team-based practice. | HTML, CSS, JavaScript |
+
+---
+
+## 🎯 Current Focus
+
+```text
+Software Engineering
+        │
+        ├── 💻 Programming
+        ├── 🧠 Data Structures & Algorithms
+        ├── 📋 Requirements Engineering
+        │
+        └── 🔐 Cybersecurity
+              ├── Web Security
+              ├── WordPress Security
+              ├── OSINT
+              ├── Penetration Testing
+              ├── SQL Injection
+              └── Malware Detection & Removal
 
 ---
 
